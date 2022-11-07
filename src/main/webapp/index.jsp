@@ -42,7 +42,7 @@
 			<tr><td>9</td><td>Cloud Management portals</td><td>AWS</td></tr>
 			<tr><td>10</td><td>Configuration management Tools</td><td>ANSIBLE</td></tr>
 			<tr><td>11</td><td>Monitoring tools</td><td>NAGIOS</td></tr>
-			<tr><td>12</td><td>Containarizartion tools</td><td>Docker</td></tr>
+			<tr><td>12</td><td>Containarizartion tools</td><td>Docker,Kubernetes</td></tr>
 		</table>
 	</body>
 </html>
