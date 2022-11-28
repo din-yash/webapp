@@ -47,3 +47,5 @@ Increase Heap size: -Xmx512m -XX:MaxPermSize=512m
 	 line wise
 	 
 	 block wise
+	 
+	 side wise
