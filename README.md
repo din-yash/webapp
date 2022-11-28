@@ -36,7 +36,8 @@ Increase Heap size: -Xmx512m -XX:MaxPermSize=512m
  mvn clean compile checkstyle:checkstyle checkstyle:check
  
  mvn clean checkstyle:checkstyle checkstyle:check install
- 
+ mvn 
+
  jacoco - java code coverage
  
 	 class wise
